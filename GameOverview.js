@@ -16,6 +16,7 @@ const images = [
   { uri: require('./assets/Gorilla (6).jpeg'), label: 'Gorilla' },
   { uri: require('./assets/Gorilla (7).jpeg'), label: 'Gorilla' },
 ];
+export {images};
 
 const groupedImages = _.groupBy(images, 'label');
 
