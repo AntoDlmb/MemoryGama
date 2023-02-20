@@ -1,8 +1,6 @@
 # MemoryGame
 C'est un repository pour notre projet intégrateur en 5SDBD. 
 
-# Memory-game
-
 ## Etapes pour tester l'application sur son smartphone
 
 ### 1. Installer Node.js
