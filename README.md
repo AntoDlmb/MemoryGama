@@ -29,6 +29,6 @@ Si vous ne parvenez pas à lancer l'application sur votre téléphone plusieurs 
 que l'ordinateur depuis lequel vous avez lancer expo ne possède pas un par feu bloquant les connexions des
 autres appareils. Sinon vous pouvez essayer de lancer l'application sur un emulateur créé à partir de Android Studio
 en utilisant dans le terminal la commande:
-'''
-npm start -android
-'''
+```
+npm run android
+```
