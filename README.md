@@ -1,5 +1,5 @@
 # MemoryGame
-C'est un repository pour notre projet intégrateur en 5SDBD. 
+C'est un repository pour notre projet intégrateur en 5SDBD. Cependant cette version du projet n'a pas abouti. Veuillez voir la version web pour voir la phase la plus avancée du projet : https://github.com/AntoDlmb/Memory_game_web.git
 
 ## Etapes pour tester l'application sur son smartphone
 
